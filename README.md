@@ -18,7 +18,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh## Hi, I'm Kenny, an IT Professional 
+[linkedin]: https://www.linkedin.com/jobs/?mcid=6994434350142418944&src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.633923221414_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9002072&cid=&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkXzK7Brnp5TiFNPr3wCQVrxGQgNIsBstcfPOvhIP0gVV22YAtAHqAoaAtWHEALw_wcB&gclsrc=aw.ds Hi, I'm Kenny, an IT Professional 
 
 <!--
 **KennyYeung-IT/KennyYeung-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
